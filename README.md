@@ -4,11 +4,11 @@ I'm a passionate Web Developer who loves building modern and scalable web applic
 
 ## 🚀 About Me
 
-- 🔭 Currently learning **Frappe** and **ERPNext**
-- 🛠️ Skilled in **full-stack development** using modern tools and frameworks
-- 🌱 Focused on writing clean, maintainable, and efficient code
-- 💬 Feel free to ask me about Laravel, Vue.js, or Python backend stuff
-- ⚡ Fun fact: I enjoy turning ideas into real, working systems
+- 🧠 Specializing in **backend development** with **Laravel** and **Python**
+- 🔍 Currently exploring **Frappe Framework** and building custom ERP apps
+- 💡 Comfortable working on the frontend with **JavaScript** and **Vue.js** when required
+- 🤝 Looking to **collaborate** on impactful web development projects
+- 📦 Passionate about building clean, maintainable, and scalable systems
 
 ## 🧰 Tech Stack
 
@@ -23,6 +23,14 @@ I'm a passionate Web Developer who loves building modern and scalable web applic
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+## 🤝 Open to Collaborate
+
+I'm available for:
+- 🧩 Backend-heavy full stack projects
+- ⚙️ REST API development and integrations
+- 🧠 Custom Laravel or Frappe modules
+- 💼 Long-term or freelance opportunities with clear backend roles
 
 
 ## 📫 Let's Connect
