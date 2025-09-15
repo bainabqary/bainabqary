@@ -5,7 +5,7 @@ I'm a passionate Web Developer who loves building modern and scalable web applic
 ## 🚀 About Me
 
 - 🧠 Specializing in **backend development** with **Laravel** and **Python**
-- 🔍 Currently exploring **Frappe Framework** and building custom ERP apps
+- 🔍 Currently learning **Frappe Framework** (still new to it) and exploring ERP development
 - 💡 Comfortable working on the frontend with **JavaScript** and **Vue.js** when required
 - 🤝 Looking to **collaborate** on impactful web development projects
 - 📦 Passionate about building clean, maintainable, and scalable systems
