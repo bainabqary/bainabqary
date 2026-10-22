@@ -5,7 +5,6 @@ I'm a passionate Web Developer who loves building modern and scalable web applic
 ## 🚀 About Me
 
 - 🧠 Specializing in **backend development** with **Laravel** and **Python**
-- 🔍 Currently learning **Frappe Framework** (still new to it) and exploring ERP development
 - 💡 Comfortable working on the frontend with **JavaScript** and **Vue.js** when required
 - 🤝 Looking to **collaborate** on impactful web development projects
 - 📦 Passionate about building clean, maintainable, and scalable systems
@@ -17,7 +16,6 @@ I'm a passionate Web Developer who loves building modern and scalable web applic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe-1F2937?style=flat&logo=frappe&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -29,7 +27,7 @@ I'm a passionate Web Developer who loves building modern and scalable web applic
 I'm available for:
 - 🧩 Backend-heavy full stack projects
 - ⚙️ REST API development and integrations
-- 🧠 Custom Laravel or Frappe modules
+- 🧠 Custom Laravel
 - 💼 Long-term or freelance opportunities with clear backend roles
 
 
